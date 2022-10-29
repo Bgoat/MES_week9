@@ -17,9 +17,9 @@ zsh: segmentation fault  ./a.out
 
 ## Mentioned in MES
 Taylor Series ( to an approximation of 3 or 4 terms)
-Use shift in the division to avoid float
-Scale input 
-Lookup Table
+- Use shift in the division to avoid float
+- Scale input 
+- Lookup Table
 
 ## Others
 ### Slope Iteration Method
